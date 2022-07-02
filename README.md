@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @20UCS055 P.ADARSH
 - 👀 I’m interested in ....
-- 🌱 I’m currently learning C .
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
   adarshhero360@gmail.com
 
